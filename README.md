@@ -34,20 +34,18 @@ To run this locally, ensure you have the following installed: <br>
 
 ### API Documentation
 
-  #### HTTP Method
+#### HTTP Method
   ```
     GET
   ```
 #### Endpoint Url
 ```
-````
-
+   hng-stage-0-eight.vercel.app
+```
 #### Request Format
 ```
-   GET /
+   GET/ https://hng-stage-0-eight.vercel.app/
 ```
-
-
 #### Response Format
 ```json
 {
@@ -58,4 +56,4 @@ To run this locally, ensure you have the following installed: <br>
 ```
 
 #### Backlinks
-[Hire a Nodejs Developer]()
+- [Hire a Nodejs Developer](https://hng.tech/hire/nodejs-developers)
