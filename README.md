@@ -34,10 +34,21 @@ To run this locally, ensure you have the following installed: <br>
 
 ### API Documentation
 
-  #### Endpoint
+  #### HTTP Method
+  ```
+    GET
+  ```
+#### Endpoint Url
+```
+````
+
+#### Request Format
+```
+   GET /
+```
 
 
-#### Example Response
+#### Response Format
 ```json
 {
   "email": "nwabueze2amarachi@gmail.com",
@@ -46,3 +57,5 @@ To run this locally, ensure you have the following installed: <br>
 }
 ```
 
+#### Backlinks
+[Hire a Nodejs Developer]()
