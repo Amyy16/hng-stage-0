@@ -12,7 +12,7 @@ app.get("/", (req, res)=>{
   const data = {
     email: "nwabueze2amarachi@gmail.com",
     current_datetime: new Date().toISOString().split(".") [0] + "Z",
-    github_url: "<www.github.com>"
+    github_url: "https://github.com/Amyy16/hng-stage-0"
   }
   res.status(200).json(data)
 })
